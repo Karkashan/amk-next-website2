@@ -94,8 +94,8 @@ export default function PageMobile() {
         <img src="/images/logo8.png" alt="شعار رقم 8" style={{ width: '170px', height: '170px' }} />
       </div>
 
-      {/* Note11 (الأخير) */}
-      <img src="/images/note11.png" alt="ملاحظة 11" style={{ width: '100%', maxWidth: '400px', marginTop: '20px' }} />
+      {/* تغيير اسم الصورة من mark11 إلى tage11 */}
+      <img src="/images/tage11.png" alt="ملاحظة 11" style={{ width: '100%', maxWidth: '400px', marginTop: '20px' }} />
 
     </div>
   );
