@@ -16,7 +16,7 @@ export default function Home() {
       style={{
         padding: '30px',
         textAlign: 'center',
-        backgroundColor: '#f0f0f0', // خلفية رمادية فاتحة
+        backgroundColor: '#f0f0f0',
         height: '100vh',
         display: 'flex',
         flexDirection: 'column',
@@ -24,14 +24,14 @@ export default function Home() {
         alignItems: 'center',
       }}
     >
-      {/* صورة Box1 مع مسافة 70px قبل النص */}
+      {/* صورة amk1 مع مسافة 70px قبل النص */}
       <img
-        src="/images/Box1.png"
+        src="/images/amk1.png"
         alt="صندوق 1"
         style={{
           width: '80vw',
           maxWidth: '450px',
-          marginBottom: '70px', // ← تم تعديلها هنا
+          marginBottom: '70px',
           display: 'block',
           animation: 'none',
         }}

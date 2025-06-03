@@ -58,38 +58,38 @@ export default function PageMobile() {
       </a>
 
       {/* الصور والملاحظات */}
-      <img src="/images/note1.png" alt="ملاحظة 1" style={{ width: '100%', maxWidth: '400px', margin: '0 auto 10px' }} />
-      <img src="/images/note2e.png" alt="ملاحظة 2" style={{ width: '100%', maxWidth: '400px', marginTop: '20px' }} />
-      <img src="/images/note3e.png" alt="ملاحظة 3" style={{ width: '100%', maxWidth: '400px', marginTop: '20px' }} />
+      <img src="/images/tage1.png" alt="ملاحظة 1" style={{ width: '100%', maxWidth: '400px', margin: '0 auto 10px' }} />
+      <img src="/images/mark2.png" alt="ملاحظة 2" style={{ width: '100%', maxWidth: '400px', marginTop: '20px' }} />
+      <img src="/images/mark3.png" alt="ملاحظة 3" style={{ width: '100%', maxWidth: '400px', marginTop: '20px' }} />
       <img src="/images/logo1.png" alt="شعار رقم 1" style={{ width: '170px', height: '170px', marginTop: '20px' }} />
-      <img src="/images/note4e.png" alt="ملاحظة 4" style={{ width: '100%', maxWidth: '400px', marginTop: '20px' }} />
+      <img src="/images/mark4.png" alt="ملاحظة 4" style={{ width: '100%', maxWidth: '400px', marginTop: '20px' }} />
       <div style={{ display: 'flex', justifyContent: 'center', marginTop: '20px' }}>
         <img src="/images/logo2.png" alt="شعار رقم 2" style={{ width: '170px', height: '170px' }} />
       </div>
-      <img src="/images/note5e.png" alt="ملاحظة 5" style={{ width: '100%', maxWidth: '400px', marginTop: '20px' }} />
+      <img src="/images/mark5.png" alt="ملاحظة 5" style={{ width: '100%', maxWidth: '400px', marginTop: '20px' }} />
       <div style={{ display: 'flex', justifyContent: 'center', marginTop: '20px' }}>
         <img src="/images/logo3.png" alt="شعار رقم 3" style={{ width: '170px', height: '170px' }} />
       </div>
-      <img src="/images/note6e.png" alt="ملاحظة 6" style={{ width: '100%', maxWidth: '400px', marginTop: '20px' }} />
+      <img src="/images/mark6.png" alt="ملاحظة 6" style={{ width: '100%', maxWidth: '400px', marginTop: '20px' }} />
       <div style={{ display: 'flex', justifyContent: 'center', marginTop: '20px' }}>
         <img src="/images/logo4.png" alt="شعار رقم 4" style={{ width: '170px', height: '170px' }} />
       </div>
-      <img src="/images/note7e.png" alt="ملاحظة 7" style={{ width: '100%', maxWidth: '400px', marginTop: '20px' }} />
+      <img src="/images/mark7.png" alt="ملاحظة 7" style={{ width: '100%', maxWidth: '400px', marginTop: '20px' }} />
       <div style={{ display: 'flex', justifyContent: 'center', marginTop: '20px' }}>
         <img src="/images/logo5.png" alt="شعار رقم 5" style={{ width: '170px', height: '170px' }} />
       </div>
-      <img src="/images/note8e.png" alt="ملاحظة 8" style={{ width: '100%', maxWidth: '400px', marginTop: '20px' }} />
+      <img src="/images/mark8.png" alt="ملاحظة 8" style={{ width: '100%', maxWidth: '400px', marginTop: '20px' }} />
       <div style={{ display: 'flex', justifyContent: 'center', marginTop: '20px' }}>
         <img src="/images/logo6.png" alt="شعار رقم 6" style={{ width: '170px', height: '170px' }} />
       </div>
-      <img src="/images/note9e.png" alt="ملاحظة 9" style={{ width: '100%', maxWidth: '400px', marginTop: '20px' }} />
+      <img src="/images/mark9.png" alt="ملاحظة 9" style={{ width: '100%', maxWidth: '400px', marginTop: '20px' }} />
       <div style={{ display: 'flex', justifyContent: 'center', marginTop: '20px' }}>
         <img src="/images/logo7.png" alt="شعار رقم 7" style={{ width: '170px', height: '170px' }} />
       </div>
-      
-      {/* تم استبدال Note10 بـ Note10E */}
-      <img src="/images/note10e.png" alt="ملاحظة 10" style={{ width: '100%', maxWidth: '400px', marginTop: '20px' }} />
-      
+
+      {/* تم استبدال Note10 بـ Mark10 */}
+      <img src="/images/mark10.png" alt="ملاحظة 10" style={{ width: '100%', maxWidth: '400px', marginTop: '20px' }} />
+
       <div style={{ display: 'flex', justifyContent: 'center', marginTop: '20px' }}>
         <img src="/images/logo8.png" alt="شعار رقم 8" style={{ width: '170px', height: '170px' }} />
       </div>
